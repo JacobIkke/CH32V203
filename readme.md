@@ -1,5 +1,8 @@
 Example codes, footprints, Benchmarks, etc
 
+All the 203 series models<br/>
+![ch32v203 image](https://github.com/JacobIkke/CH32V203/blob/main/ch32v203_models.jpg)
+
 Benchmarks
 
 ### Find the first 10000 Prime Numbers Benchmark:
